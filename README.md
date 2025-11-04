@@ -2,6 +2,7 @@ Tahterevalli Simülasyonu
 ========================
 
 Live Demo: metinogulcank.github.io/seesaw
+
 Basit HTML, CSS ve JavaScript ile yazılmış, tork (ağırlık × mesafe) prensibine dayalı bir tahterevalli simülasyonu. Kullanıcı, 400px uzunluğundaki tahta boyunca istediği noktaya tıklayarak 1–10 kg arası nesneler bırakabilir; sistem tork farkına göre tahtayı ±30° aralığında yumuşak biçimde eğer. Durum localStorage'a kaydedilir.
 
 Öne Çıkanlar
